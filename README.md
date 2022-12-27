@@ -7,6 +7,6 @@ The timer starts counting up. You can press the first button to alternately paus
 
 **MODE 2:**
 
-First, you select the time you give (e.g. a 15 min, 30 min timer), and hold down both buttons to start the actual timer. There will be an RGB LED that changes colour as the timer counts down so you can measure progress(actually one of my favourite parts of building the project). Once the program is done it will take you back to the home screen where you select the two different modes.
+First, you select how much time you wnat to give yourself (e.g. a 15 min, 30 min timer), and hold down both buttons to start the actual timer. There will be an RGB LED that changes colour as the timer counts down so you can measure progress (this was actually one of my favourite parts of building the project).
 
 I ended up changing the code slightly as the physical LCD I was using required a different module (LiquidCrystal_I2C.h) instead of TinkerCAD's LiquidCrystal.h. If you want to run this code on your own, then you will need to install the LiquidCrystal_I2C.h here: https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/
