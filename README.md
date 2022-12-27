@@ -14,5 +14,6 @@ I ended up changing the code slightly as the physical LCD I was using required a
 ### USAGE:
 
 If you want to run this code on your own, then you will need to install the LiquidCrystal_I2C.h here: https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/
+On the Arduino IDE, go to ```Sketch -> Include Library -> Add .ZIP Library``` and select the .zip. 
 
 Download the code (and install the Arduino IDE if you haven't already), build the program (to see what the build looks like visit my personal website), and upload the code to the Arduino.
