@@ -7,7 +7,7 @@ The timer starts counting up. You can press the first button to alternately paus
 
 ### MODE 2:
 
-First, you select how much time you wnat to give yourself (e.g. a 15 min, 30 min timer), and hold down both buttons to start the actual timer. There will be an RGB LED that changes colour as the timer counts down so you can measure progress (this was actually one of my favourite parts of building the project).
+First, you select how much time you want to give yourself (e.g. a 15 min, 30 min timer), and hold down both buttons to start the actual timer. There will be an RGB LED that changes colour as the timer counts down so you can measure progress (this was actually one of my favourite parts of building the project).
 
 I ended up changing the code slightly as the physical LCD I was using required a different module (LiquidCrystal_I2C.h) instead of TinkerCAD's LiquidCrystal.h. 
 
